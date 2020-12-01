@@ -1,14 +1,16 @@
 
-https://www.nagekar.com/404/
-https://www.nagekar.com/archive/
-https://www.nagekar.com/atom.xml
-https://www.nagekar.com/
-https://www.nagekar.com/rss.xml
-https://www.nagekar.com/sitemap.txt
-https://www.nagekar.com/tags/
-https://www.nagekar.com/assets/css/style.css
-https://www.nagekar.com/CHANGELOG/
-https://www.nagekar.com/blog/page2/
+https://blog.brushbuddy.net/404/
+https://blog.brushbuddy.net/archive/
+https://blog.brushbuddy.net/atom.xml
+https://blog.brushbuddy.net/
+https://blog.brushbuddy.net/rss.xml
+https://blog.brushbuddy.net/sitemap.txt
+https://blog.brushbuddy.net/tags/
+https://blog.brushbuddy.net/assets/css/style.css
+https://blog.brushbuddy.net/CHANGELOG/
+https://blog.brushbuddy.net/blog/page2/
+https://blog.brushbuddy.net/blog/page3/
 
-https://www.nagekar.com/2018/04/28/markdown-test/
-https://www.nagekar.com/2017/04/17/lorem-ipsum/
+https://blog.brushbuddy.net/2020/11/02/2020-Website/
+https://blog.brushbuddy.net/2020/11/02/Oral-Health/
+https://blog.brushbuddy.net/2020/11/01/first-post/
